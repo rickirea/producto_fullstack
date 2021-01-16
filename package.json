@@ -1,8 +1,6 @@
 {
   "name": "aplicacion_base_examen",
   "version": "0.1.0",
-  "app-name": "fullstack_base",
-  "homepage": "http://trupper-skeleton-master.rmdsmp2mbg.us-west-2.elasticbeanstalk.com/apps/fullstack_base",
   "private": true,
   "dependencies": {
     "@carto/carto.js": "^4.2.1",
