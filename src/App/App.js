@@ -5,7 +5,6 @@ import "./App.css";
 
 function App() {
   const requestPointsRef = useRef(() => {});
-  console.log("App is working again...");
 
   return (
     <div id="app">
